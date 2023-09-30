@@ -1,0 +1,11 @@
+Model Information:
+* title:	Krahuletz 002
+* source:	https://sketchfab.com/3d-models/krahuletz-002-b17f44afe1534289830c162c231e8264
+* author:	MWintersberger (https://sketchfab.com/mwintersberger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Krahuletz 002" (https://sketchfab.com/3d-models/krahuletz-002-b17f44afe1534289830c162c231e8264) by MWintersberger (https://sketchfab.com/mwintersberger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
